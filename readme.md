@@ -17,12 +17,6 @@ This project is a learning-focused animation study created to understand and pra
 - Armature-based pipe deformation
 - Material and rendering
 
-## Preview
-
-![Preview](preview.png)
-
-Visit my [portfolio](https://austin-ngobeni.vercel.app/) to view the animation
-
 ## Project Purpose
 
 This project was created purely for learning and experimentation.
